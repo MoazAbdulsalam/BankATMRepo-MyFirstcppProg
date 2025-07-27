@@ -1,6 +1,17 @@
-*.exe
-*.obj
-*.vcxproj*
-*.sln
+# Visual Studio
+.vs/
 *.user
+*.suo
+
+# Build results
+x64/
+*.obj
+*.exe
 *.log
+*.ipch
+*.pch
+*.pdb
+
+# Misc
+*.VC.db
+*.VC.opendb
