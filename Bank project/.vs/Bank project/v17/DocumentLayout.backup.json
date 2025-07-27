@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\problems level 4\\Bank project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6238A6A7-3FE6-4B2D-8D0B-960477B3956A}|Bank project\\Bank project.vcxproj|D:\\source\\repos\\problems level 4\\Bank project\\Bank project\\Bank project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6238A6A7-3FE6-4B2D-8D0B-960477B3956A}|Bank project\\Bank project.vcxproj|solutionrelative:Bank project\\Bank project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank project.cpp",
+              "DocumentMoniker": "D:\\source\\repos\\problems level 4\\Bank project\\Bank project\\Bank project.cpp",
+              "RelativeDocumentMoniker": "Bank project\\Bank project.cpp",
+              "ToolTip": "D:\\source\\repos\\problems level 4\\Bank project\\Bank project\\Bank project.cpp",
+              "RelativeToolTip": "Bank project\\Bank project.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-27T06:27:30.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
